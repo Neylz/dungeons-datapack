@@ -16,3 +16,5 @@ team add dng_red
 team modify dng_red color red
 team add dng_dark_green
 team modify dng_dark_green color dark_green
+team add dng_dark_blue
+team modify dng_dark_blue color dark_blue
